@@ -1,3 +1,5 @@
 # git-curso
-repositorio curso git
-Ejercicio para gestionar proyectos con Git
+
+- Ejercicio para gestionar proyectos con [Git][df1]
+
+[df1]: <https://git-scm.com/>
